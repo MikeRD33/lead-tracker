@@ -6,11 +6,11 @@ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+## Lead Tracker Extension
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Creating a small extension app that saves any web-link from a site on your local storage. You have to the option to either add it manually, or by using our `save tab` feature which will copy the link from the current active tab on chrome.  
+
+
 
 - [Our courses](https://scrimba.com/allcourses)
 - [The Frontend Career Path](https://scrimba.com/learn/frontend)
