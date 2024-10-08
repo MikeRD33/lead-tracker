@@ -10,10 +10,3 @@ Head over to https://vitejs.dev/ to learn more about configuring vite
 
 Creating a small extension app that saves any web-link from a site on your local storage. You have to the option to either add it manually, or by using our `save tab` feature which will copy the link from the current active tab on chrome.  
 
-
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
